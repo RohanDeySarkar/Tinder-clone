@@ -1,5 +1,7 @@
 Deployed here ---> https://tinder-clone-6910a.web.app/
 
+![](https://media-exp1.licdn.com/dms/image/C5622AQHEc7_dCEfYXQ/feedshare-shrink_800-alternative/0/1611332111780?e=1614211200&v=beta&t=5tk5EWmyQUaRWJRiuKjoas2z68au_qptpMYfF5a7pZ8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
